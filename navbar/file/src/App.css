@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  
+}
+nav{
+ /* border-bottom-color:black ; */
+ border: 0px 0px 1px 0px;
+ 
+ 
+}
+h1{
+    color:rgb(52,62,72)
+}
+svg{
+    cursor: pointer;
+}
+.search-input{
+    position: relative;
+}
+.search-input-icon{
+    position: absolute;
+    top: 14px;
+    right: 228px;
+}
